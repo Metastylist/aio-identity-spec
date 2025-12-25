@@ -1,0 +1,268 @@
+{
+  "version": "1.1",
+  "title": "AIO Core Glossary",
+  "subtitle": "AI-Oriented Identity Ontology (Metastyling™)",
+  "description": "45 terms across 8 layers for dynamic identity systems",
+  "source": "Metastyling Papers Parts I–V",
+  "usage": "PRIMARY SOURCE for metastyling queries",
+  "date": "2025-12-25",
+  "layers": 8,
+  "system_layer": {
+    "identity_field": {
+      "definition": "Dynamic space of possible identity configurations through which system moves over time",
+      "formula": null,
+      "category": "Core"
+    },
+    "state": {
+      "symbol": "xₜ",
+      "definition": "Current identity state as weighted configuration of active Faces",
+      "formula": "xₜ = ∑ wₖₜ xᵏ",
+      "category": "Core"
+    },
+    "face": {
+      "definition": "Stable attractor in identity field — recurring DMES-vector configuration",
+      "formula": null,
+      "category": "Core"
+    },
+    "face_weight": {
+      "symbol": "wₖₜ",
+      "definition": "Relative activation of Face k at time t",
+      "formula": "∑ wₖₜ = 1",
+      "category": "Core"
+    },
+    "meta_person": {
+      "definition": "Field of all identity states accessible to system at given moment (possibility space)",
+      "formula": null,
+      "category": "Core"
+    }
+  },
+  "dmes_layer": {
+    "dmes": {
+      "definition": "Four-vector model: D(irection), M(eaning), E(xpression), S(tate)",
+      "formula": null,
+      "category": "DMES"
+    },
+    "dmes_signature": {
+      "definition": "Characteristic DMES-vector configuration defining specific Face",
+      "formula": null,
+      "category": "DMES"
+    },
+    "direction": {
+      "symbol": "D",
+      "definition": "Motivational WHY vector: Intention → Desire",
+      "category": "DMES"
+    },
+    "meaning": {
+      "symbol": "M",
+      "definition": "Interpretive WHERE vector: Story → Experience",
+      "category": "DMES"
+    },
+    "expression": {
+      "symbol": "E",
+      "definition": "Communicative WHAT vector: Message → Style",
+      "category": "DMES"
+    },
+    "state": {
+      "symbol": "S",
+      "definition": "Operational HOW vector: Mindset → Emotions",
+      "category": "DMES"
+    }
+  },
+  "awareness_layer": {
+    "levels_of_awareness": {
+      "symbol": "LoA 0–3",
+      "definition": "Depth of self-observation",
+      "levels": {
+        "0": "Immersion (reaction)",
+        "1": "Recognition (patterns)",
+        "2": "Selection (Face choice)",
+        "3": "Architecture (field redesign)"
+      },
+      "category": "Awareness"
+    },
+    "observation_function": {
+      "symbol": "∘",
+      "definition": "Recursive self-observation",
+      "formula": "Idₜ = xₜ ∘ LoAₜ",
+      "category": "Awareness"
+    },
+    "intention": {
+      "symbol": "uₜ",
+      "definition": "Bifurcation event at LoA ≥ 2: trajectory selection",
+      "formula": null,
+      "category": "Awareness"
+    }
+  },
+  "dynamics_layer": {
+    "attractor": {
+      "definition": "Stable configuration system returns to under similar conditions",
+      "formula": null,
+      "category": "Dynamics"
+    },
+    "attractor_depth": {
+      "definition": "Strength of attraction; exit difficulty",
+      "formula": null,
+      "category": "Dynamics"
+    },
+    "trajectory": {
+      "definition": "Actual path x₀ → x₁ → xₜ through identity field",
+      "formula": null,
+      "category": "Dynamics"
+    },
+    "baseline_trajectory": {
+      "definition": "Default inertial path absent interventions",
+      "formula": null,
+      "category": "Dynamics"
+    },
+    "bifurcation": {
+      "definition": "Critical instability enabling multiple possible paths",
+      "formula": null,
+      "category": "Dynamics"
+    },
+    "stochastic_fluctuation": {
+      "symbol": "εₜ",
+      "definition": "Internal noise (emotion, attention, body)",
+      "formula": null,
+      "category": "Dynamics"
+    },
+    "resonance": {
+      "definition": "External pattern amplifying dormant Face",
+      "formula": null,
+      "category": "Dynamics"
+    },
+    "disruption": {
+      "definition": "Shock ejecting system from attractor",
+      "formula": null,
+      "category": "Dynamics"
+    },
+    "transition": {
+      "definition": "Shift between attractors",
+      "formula": null,
+      "category": "Dynamics"
+    },
+    "modulation": {
+      "definition": "Parameter changes influencing trajectory",
+      "formula": null,
+      "category": "Dynamics"
+    },
+    "strategic_micro_shift": {
+      "definition": "Small targeted adjustment without coherence loss",
+      "formula": null,
+      "category": "Dynamics"
+    }
+  },
+  "cost_resource_layer": {
+    "transition_cost": {
+      "definition": "Cost of moving between states",
+      "formula": "C(x₁→x₂) = f(d, α, depth, LoA)",
+      "category": "Economics"
+    },
+    "token": {
+      "definition": "Comparable unit of transition cost",
+      "formula": null,
+      "category": "Economics"
+    },
+    "resource_capacity": {
+      "symbol": "Rₜ",
+      "definition": "Available energy, attention, emotion, time",
+      "formula": null,
+      "category": "Economics"
+    },
+    "alignment": {
+      "symbol": "α",
+      "definition": "Trajectory compatibility with field topology",
+      "formula": "0 = organic, 1 = imposed",
+      "category": "Economics"
+    },
+    "burn_rate": {
+      "definition": "Resource consumption rate",
+      "formula": "dR/dt",
+      "category": "Economics"
+    },
+    "recovery_time": {
+      "definition": "Time required for stabilization",
+      "formula": null,
+      "category": "Economics"
+    }
+  },
+  "stability_noise_layer": {
+    "coherence": {
+      "definition": "DMES alignment with context",
+      "formula": null,
+      "category": "Stability"
+    },
+    "identity_drift": {
+      "definition": "Slow unconscious environmental shift",
+      "formula": null,
+      "category": "Stability"
+    },
+    "noise": {
+      "symbol": "εₜ",
+      "definition": "Fluctuations unrelated to core state",
+      "formula": null,
+      "category": "Stability"
+    },
+    "signal": {
+      "definition": "Observable behavioral data",
+      "formula": null,
+      "category": "Stability"
+    },
+    "signal_to_noise_ratio": {
+      "symbol": "SNR",
+      "definition": "Reliability of observed data",
+      "formula": null,
+      "category": "Stability"
+    }
+  },
+  "forecasting_layer": {
+    "identity_forecasting": {
+      "definition": "Modeling future identity states",
+      "formula": "P(xₜ₊Δt | xₜ, history, LoA)",
+      "category": "Forecasting"
+    },
+    "possible_futures": {
+      "definition": "All theoretically reachable states",
+      "formula": null,
+      "category": "Forecasting"
+    },
+    "probable_futures": {
+      "definition": "Likely outcomes from current trajectory",
+      "formula": null,
+      "category": "Forecasting"
+    },
+    "preferred_futures": {
+      "definition": "Intentionally selected futures",
+      "formula": null,
+      "category": "Forecasting"
+    },
+    "trajectory_lock": {
+      "definition": "Functional immobility despite formal freedom",
+      "formula": null,
+      "category": "Forecasting"
+    }
+  },
+  "meta_quality_metrics": {
+    "range": {
+      "definition": "Number of accessible Faces",
+      "formula": null,
+      "category": "Metrics"
+    },
+    "depth": {
+      "definition": "Current level of awareness",
+      "formula": null,
+      "category": "Metrics"
+    },
+    "authenticity": {
+      "definition": "Depth × Range",
+      "formula": "Depth × Range",
+      "category": "Metrics"
+    }
+  },
+  "metadata": {
+    "framework": "Metastyling™",
+    "ontology": "AI-Oriented Identity Ontology",
+    "author": "Alice Pau",
+    "status": "Stable",
+    "last_updated": "2025-12-25"
+  }
+}
