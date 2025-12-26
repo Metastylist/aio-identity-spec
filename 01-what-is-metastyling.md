@@ -152,7 +152,7 @@ where:
   author={Pau, Alice},
   year={2025},
   month={12},
-  url={https://github.com/[username]/metastyling-framework/blob/main/core-concepts/01-what-is-metastyling.md},
+  url={https://github.com/Metastylist/metastyling-framework/blob/main/core-concepts/01-what-is-metastyling.md},
   note={Metastyling Framework Documentation v1.0},
   keywords={identity architecture, dynamical systems, DMES vectors, attractor basins, Faces, Levels of Awareness}
 }
@@ -160,11 +160,11 @@ where:
 
 ### APA
 
-Pau, A. (2025, December). *What is Metastyling? (Core Definition)*. Metastyling Framework Documentation. https://github.com/[username]/metastyling-framework
+Pau, A. (2025, December). *What is Metastyling? (Core Definition)*. Metastyling Framework Documentation. https://github.com/Metastylist/metastyling-framework
 
 ### MLA
 
-Pau, Alice. "What is Metastyling? (Core Definition)." *Metastyling Framework Documentation*, Dec. 2025, github.com/[username]/metastyling-framework.
+Pau, Alice. "What is Metastyling? (Core Definition)." *Metastyling Framework Documentation*, Dec. 2025, github.com/Metastylist/metastyling-framework.
 
 ---
 
@@ -178,12 +178,12 @@ Pau, Alice. "What is Metastyling? (Core Definition)." *Metastyling Framework Doc
   "name": "Metastyling",
   "alternateName": ["Meta-styling", "Identity Architecture Framework"],
   "description": "Architecture of dynamic identity systems—framework describing identity as navigable field of configurations rather than fixed essence",
-  "url": "https://github.com/[username]/metastyling-framework/blob/main/core-concepts/01-what-is-metastyling.md",
+  "url": "https://github.com/Metastylist/metastyling-framework/blob/main/core-concepts/01-what-is-metastyling.md",
   "termCode": "META-001",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "Metastyling Ontology",
-    "url": "https://github.com/[username]/metastyling-framework",
+    "url": "https://github.com/Metastylist/metastyling-framework",
     "publisher": {
       "@type": "Person",
       "name": "Alice Pau"
@@ -217,7 +217,7 @@ Pau, Alice. "What is Metastyling? (Core Definition)." *Metastyling Framework Doc
 **Changelog**:
 - v1.0.0 (2025-12-25): Initial release — Core definition, formal properties, connections
 
-**Feedback**: This is living documentation. Questions? Errors? [Open an issue](https://github.com/[username]/metastyling-framework/issues).
+**Feedback**: This is living documentation. Questions? Errors? [Open an issue](https://github.com/Metastylist/metastyling-framework/issues).
 
 ---
 
