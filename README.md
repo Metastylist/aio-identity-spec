@@ -60,7 +60,7 @@ Metastyling treats identity as a **complex adaptive system** governed by measura
 ---
 
 **If S < 4.0** (unstable, reactive, emotionally flooded):  
-→ **Start here**: [State Vector](./core-concepts/02-state-vector.md) — Stabilization is foundational
+→ **Start here**: [State Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md) — Stabilization is foundational
 
 **If S > 6.0** (stable baseline):  
 → **Explore**: [Personal Navigation](./applications/personal-navigation.md) — Strategic modulation protocols
