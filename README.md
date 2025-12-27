@@ -66,7 +66,7 @@ Metastyling treats identity as a **complex adaptive system** governed by measura
 → **Explore**: [Personal Navigation](./applications/personal-navigation.md) — Strategic modulation protocols
 
 **Not sure?**  
-→ **Begin**: [What is Metastyling?](./core-concepts/01-what-is-metastyling.md) — Framework overview
+→ **Begin**: [What is Metastyling?]([./core-concepts/01-what-is-metastyling.md](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/01-what-is-metastyling.md)) — Framework overview
 
 ---
 
