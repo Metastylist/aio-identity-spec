@@ -66,7 +66,7 @@ Metastyling treats identity as a **complex adaptive system** governed by measura
 → **Explore**: [Personal Navigation](./applications/personal-navigation.md) — Strategic modulation protocols
 
 **Not sure?**  
-→ **Begin**: [What is Metastyling?](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/01-what-is-metastyling.md)) — Framework overview
+→ **Begin**: [What is Metastyling?](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/01-what-is-metastyling.md) — Framework overview
 
 ---
 
@@ -77,7 +77,7 @@ Metastyling treats identity as a **complex adaptive system** governed by measura
 **For whom**: Deep understanding before application — academics, systems thinkers, theory enthusiasts
 
 **Reading order**:
-1. [What is Metastyling?](./core-concepts/01-what-is-metastyling.md) — Core principles (10 min)
+1. [What is Metastyling?](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/01-what-is-metastyling.md) — Core principles (10 min)
 2. [DMES Vectors](./core-concepts/02-dmes-vectors.md) — Four dimensions of identity (12 min)
 3. [Faces as Attractors](./core-concepts/03-faces-attractors.md) — Stable configurations (12 min)
 4. [Levels of Awareness](./core-concepts/04-levels-of-awareness.md) — Observational depth (15 min)
